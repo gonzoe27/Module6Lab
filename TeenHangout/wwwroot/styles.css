@@ -1,0 +1,10 @@
+/* Add your custom CSS styles here */
+
+#hero{
+    background-color: #2ecc71;
+}
+
+.social-links a{
+    text-decoration: none;
+    font-weight: bold;
+}
